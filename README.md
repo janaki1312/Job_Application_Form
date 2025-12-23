@@ -1,8 +1,8 @@
 # Job_Application_Form
-Visit my website here 🚀: 
-(https://job-application-form-woad-zeta.vercel.app/)
+**Visit my website here** 🚀: 
+https://job-application-form-woad-zeta.vercel.app/
 
-This is a responsive Job Application Form built using HTML and CSS.
+This is a responsive <b><i>Job Application Form</b></i> built using HTML and CSS.
 It collects basic applicant details like name, email, job role, address, date of birth, pincode, and CV upload.
 
 <b><i>Learning Outcomes</b></i>
